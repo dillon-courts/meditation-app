@@ -1,0 +1,1 @@
+This only runs locally, open the index.html file in your favorite browser and you are good to go!
